@@ -38,6 +38,27 @@ Contents
     registration/supplier
 
 .. toctree::
+    :caption: Invoice flow
+    :maxdepth: 1
+
+    invoice/invoice_api
+    invoice/invoice_storage
+    invoice/invoice_verification
+
+.. toctree::
+    :caption: Microservice
+    :maxdepth: 1
+
+    microservice/microservices
+
+.. toctree::
+    :caption: Monitoring & logging
+    :maxdepth: 1
+
+    monitoring_logging/monitoring
+    monitoring_logging/logging
+
+.. toctree::
    :caption: Example rst
 
    usage
